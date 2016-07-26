@@ -1,0 +1,5 @@
+com\jcg\examples\repo\PersonRepo.class
+com\jcg\examples\repo\AddressRepo.class
+com\jcg\examples\entity\Person.class
+com\jcg\examples\test\Application.class
+com\jcg\examples\entity\Address.class
